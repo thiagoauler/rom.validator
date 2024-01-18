@@ -115,5 +115,4 @@
 0785 - Street Racer - Speedway II (Europe)|(EUR PARENT)
 0786 - Surround (Europe)|(EUR PARENT)
 0793 - Slot Racers (Europe)|(EUR PARENT)
-0796 - Dschungel Boy (Europe)|(EUR PARENT)
 0199 - H.E.R.O. (USA)|(USA PARENT)
